@@ -1,5 +1,5 @@
 def print_star(n):
-    for_in range(n):
-           print('*******************')
+    for _ in range(n):
+        print('***********')
 
 print_star(4)
