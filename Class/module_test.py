@@ -1,0 +1,5 @@
+a = int(input('이차함수의 계수'))
+b = int(input('일차함수의 계수'))
+c = int(input('상수함'))
+x2 , x1 = root_ex(a,b,c)
+print(x1, x2)
